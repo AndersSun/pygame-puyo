@@ -10,7 +10,7 @@ python3 puyo_main.py
 <img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/main-menu.png" width="50%">
 
 ## one player
-<img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png" width="50%">
+<img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png" width="35%">
 
 
 ## two players
