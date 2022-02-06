@@ -7,8 +7,11 @@ pip install pygame
 python3 puyo_main.py
 # screenshot
 ## game menu
-![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/main-menu.png)
+<img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/main-menu.png" width="50%">
+
 ## one player
-![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png =300x200)
+<img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png" width="50%">
+
+
 ## two players
-![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/two-player.png)
+<img src="https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/two-player.png" width="70%">
