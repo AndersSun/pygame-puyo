@@ -7,8 +7,8 @@ pip install pygame
 python3 puyo_main.py
 # screenshot
 ## game menu
-![Image text](./screenshots/main-menu.png)
+![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/main-menu.png)
 ## one player
-![Image text](./screenshots/one-player.png)
+![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png)
 ## two players
-![Image text](./screenshots/two-player.png)
+![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/two-player.png)
