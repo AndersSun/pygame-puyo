@@ -9,6 +9,6 @@ python3 puyo_main.py
 ## game menu
 ![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/main-menu.png)
 ## one player
-![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png)
+![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/one-player.png =300x200)
 ## two players
 ![Image text](https://raw.githubusercontent.com/AndersSun/pygame-puyo/main/screenshots/two-player.png)
