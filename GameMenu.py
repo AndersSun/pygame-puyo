@@ -1,4 +1,4 @@
-from curses import KEY_ENTER
+
 from pygame import KEYDOWN, K_w, Rect, Surface
 import pygame as pg
 from pygame import *
